@@ -1,14 +1,18 @@
 <h1>Line Detection</h1>
 
-This code aims to detect line from the image uploaded (batch processing), using Hough Transform in OpenCV library.
+![](https://img.shields.io/github/last-commit/felixfilipi/Computer-Vision)
+![](https://img.shields.io/badge/build-passing-orange)
+![](https://img.shields.io/badge/library-cv2-blue)
+![](https://img.shields.io/badge/library-matplotlib-blue)
 
-I used some usefull library to build this code:
-* Matplotlib (to plot image in .ipynb file)
-* OpenCV (to build model)
+This code aims to detect lines from the image uploaded (batch processing), using Hough Transform in OpenCV library.
 
+I used some useful library to build this code:
+* Matplotlib 
+* OpenCV 
 <h2>Algorithm:</h2>
 
-1. Read source file.
+1. Read the source file.
 2. Grayscale with cv2.
 3. Define HoughLines model.
 4. Plot the model.
@@ -24,8 +28,8 @@ I used some usefull library to build this code:
 
 <h2>Cant Open the File? </h2>
 
-In case you can't see the .ipynb file, and got error
+In case you can't open the .ipynb file and get the error message, such as:
 
 > "Sorry, something went wrong. Reload?"
 
-You can access it from http://nbviewer.jupyter.org/ and copy paste the link to that site.
+You can open it from http://nbviewer.jupyter.org/ and copy-paste the link to that site.
