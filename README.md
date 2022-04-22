@@ -9,7 +9,9 @@
 
 This repository aims to summarize various private project about computer vision using OpenCV library.
 
-<h2> If you found that this repository helpful to learn CV, don't forget to give a star, thanks
+<hr>
+<h3> If you found that this repository helpful to learn CV, don't forget to give a star, thanks </h3>
+<hr>
 
 In this repo, frequently I use some library such as:
 * OpenCV
