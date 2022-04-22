@@ -9,10 +9,13 @@
 
 This repository aims to summarize various private project about computer vision using OpenCV library.
 
+<h2> If you found that this repository helpful to learn CV, don't forget to give a star, thanks
+
 In this repo, frequently I use some library such as:
 * OpenCV
 * Matplotlib
 * Numpy
+* Os
 
 <h4>Each Project has it owns explanation in the README file, so hopefully, it can help you out to understand the code better.</h4>
 
